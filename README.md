@@ -6,7 +6,7 @@
 ### 💻 MERN Stack Developer | Open Source Contributor | DSA Enthusiast
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&repeat=true&width=900&lines=Welcome+to+my+GitHub+Profile!;MERN+Stack+Developer;230%2B+LeetCode+Problems;Open+Source+Contributor;Always+Learning+New+Technologies+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Suhani+Singh+Vaishnavi;B.Tech+CSE+Student+at+IIIT+Agartala;MERN+Stack+Developer;Open+Source+Contributor;230%2B+LeetCode+Problems" />
 </p>
 </div>
 
