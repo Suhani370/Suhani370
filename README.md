@@ -24,3 +24,30 @@
 - 📫 Reach me at **dksuhani2401@gmail.com**
 
 ---
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,react,nodejs,express,mongodb,mysql,firebase,git,github,vscode,androidstudio,kotlin,html,css,bootstrap&perline=9" />
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Suhani370&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhani370&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Suhani370&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
