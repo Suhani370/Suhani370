@@ -134,3 +134,10 @@ If you like my work, consider **starring** my repositories and **connecting** wi
 💜 Happy Coding! 🚀
 ⭐ Always open to collaborating on exciting Open Source and Full Stack projects.
 </div>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Suhani370/Suhani370/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
